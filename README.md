@@ -23,9 +23,11 @@ Other things -
 Consider training
 Find out what an LDA model is
 Use the 20 newsgroups dataset instead of Harry
+Find out what data leakage is
 
 Things to try afterwards:
 
 Check out Kaggle competitions to learn from top kernels
 https://www.kaggle.com/c/quora-insincere-questions-classification?utm_medium=email&utm_source=intercom&utm_campaign=launch-mailer-20181101
+Find o
 
